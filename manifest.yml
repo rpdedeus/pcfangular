@@ -1,0 +1,6 @@
+---
+applications:
+  - name: pcfangular
+    memory: 256MB
+    instances: 1
+    buildpack: staticfile_buildpack
